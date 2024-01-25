@@ -14,29 +14,29 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CoD Mods Wiki
-email: scobalula@gmail.com
-author: Philip/Scobalula
+title: S.T.A.L.K.E.R. Development Library
+email: stalker-development-library@outlook.com
+author: FaberTheCatgirl
 description: > # this means to ignore newlines until "baseurl:"
   A wiki dedicated to providing technical and general purpose information
-  on Call of Duty Modding with a focus on the Black Ops III Mod Tools.
+  on STALKER Modding.
 
 # Add your baseurl here (your repository) but DO NOT CHANGE THE LINE NUMBER without editing .circleci/circle_urls.sh
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # This is mostly for testing
-url: "https://wiki.codmods.com" # the base hostname & protocol for your site
+url: "https://wiki.stalker-development-library.com" # the base hostname & protocol for your site
 
 # Social (First three Required)
-repo: "https://github.com/Scobalula/cod-mods-wiki"
-github_user: "Scobalula"
-github_repo: "cod-mods-wiki"
+repo: "https://github.com/FaberTheCatgirl/stalker-development-library"
+github_user: "FaberTheCatgirl"
+github_repo: "stalker-development-library"
 github_branch: "master"
 
 # Optional
-twitter: scobalula
-# linkedin: vsochat
-# dockerhub: vanessa
+# twitter: 
+# linkedin: 
+# dockerhub: 
 
 # Should there be feedback buttons at the bottom of pages?
 feedback: true

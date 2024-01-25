@@ -2,11 +2,15 @@
 <img src="assets/img/logo_big.png">
 </p>
 
-<h1 align="center">Welcome to the CoD Mods Wiki</h1>
+<h1 align="center">Welcome to the S.T.A.L.K.E.R. Devlopment Library</h1>
 
-Welcome to the main repository for the CoD Mods Wiki. Our goal with this site is to provide a wiki dedicated to technical and general information on modding Call of Duty. We generally focus primarily on Call of Duty: Black Ops III but are welcome to anyone to submit info for other Call of Duty titles, including those without official SDKs.
+Welcome to the main repository for the S.T.A.L.K.E.R. Devlopment Library. The majority of the documentation available on the wiki is a result of a meticulous translation process from Russian and Ukrainian into English. This translation effort is crucial in bridging the language gap and making the wealth of information about the Xray Engine accessible to a broader international audience. By providing translations, the wiki ensures that developers, modders, and enthusiasts who may not be proficient in Russian or Ukrainian can still benefit from the insights, techniques, and knowledge shared within the community.
 
-**This wiki is not affiliated with Activision or the developers, we are modders who want to help out other modders with working with Call of Duty.**
+This multilingual approach not only fosters inclusivity but also promotes collaboration among a diverse group of individuals who share a common interest in understanding and working with the Xray Engine. The translated documentation serves as a vital resource for those outside the Russian and Ukrainian-speaking communities, allowing them to explore the intricacies of the engine, contribute to its development, and engage in the vibrant discussions that shape the modding and development landscape.
+
+Moreover, the translation process underscores the global impact and appeal of the STALKER series and the Xray Engine. It facilitates a seamless exchange of ideas and expertise, fostering a sense of unity among individuals with a shared passion for exploring and modifying the capabilities of the engine, regardless of their native language. In essence, the wiki's commitment to translating documentation contributes significantly to the democratization of knowledge and the creation of a more interconnected and collaborative modding community.
+
+**This wiki is not affiliated with GSC Game World or the developers, we are modders who want to help out other modders with working with STALKER.**
 
 # Contributing
 
@@ -27,7 +31,5 @@ We may split up your contribution if we feel it's too large, or we may marge it 
 If you're finding it hard to follow all this but still want to contribute then you can open an issue or post in the Discord with your documentation, images, and assets and we'll handle the rest, but contributions made this way may take longer for us to add to the repo as time is limited.
 
 # Credits
-
-The CoD Mods Logo is from [Andrejs Kirma](https://thenounproject.com/andrejs/) on the Noun Project, you can view it [here](https://thenounproject.com/icon/rpg-2526449/). 
 
 The main wiki is powered by the beautiful [Docsy for Jekyll](https://github.com/vsoch/docsy-jekyll) by [Vanessasaurus](https://github.com/vsoch).

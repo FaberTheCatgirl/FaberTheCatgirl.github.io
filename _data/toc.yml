@@ -1,19 +1,28 @@
-- title: Black Ops III
-  url: docs/bo3
+- title: X-Ray Engine
+  url: docs/xray
   links:
-    - title: "Ambient Rooms"
-      url: "docs/bo3/ambient_rooms"
-    - title: "Destructibles"
-      url: "docs/bo3/destructibles"
+    - title: "Contributing Guide"
+      url: "docs/xray/contribute"
+    - title: "Known Engine Builds"
+      url: "docs/xray/engines"
+    - title: "Engine Documentation"
+      url: "docs/xray/engines"
       children:
-        - title: Setting up a Destructible Wall
-          url: "docs/bo3/destructibles/setting_up_a_destructible_wall"
-        - title: Setting up a Destructible Vehicle
-          url: "docs/bo3/destructibles/setting_up_a_destructible_vehicle"
-        - title: Scripting Destructibles
-          url: "docs/bo3/destructibles/scripting_destructibles"
-    - title: "Localized Sounds"
-      url: "docs/bo3/sound/localized_sounds"
+        - title: S.T.A.L.K.E.R. Shadow of Chernobyl
+          url: "docs/xray/engines/SoC"
+        - title: S.T.A.L.K.E.R. Clear Sky
+          url: "docs/xray/engines/CS"
+        - title: S.T.A.L.K.E.R. Call of Pripyat
+          url: "docs/xray/engines/CoP"
+    - title: "SDK Guides"
+      url: "docs/xray/sdk"
+      children:
+      - title: S.T.A.L.K.E.R. Shadow of Chernobyl SDK
+          url: "docs/xray/sdk/SoC"
+        - title: S.T.A.L.K.E.R. Clear Sky SDK
+          url: "docs/xray/sdk/CS"
+        - title: S.T.A.L.K.E.R. Call of Pripyat SDK
+          url: "docs/xray/sdk/CoP"
 - title: "General"
   url: "docs/extras"
   links:
