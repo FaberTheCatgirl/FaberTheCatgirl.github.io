@@ -13,7 +13,7 @@ TBA
 
 ## Advanced Development
 
-TBA
+[Smart Terrain Creation](https://faberthecatgirl.github.io/docs/xray/engines/CoP/Guides/Level_Design/smart_terrain_creation/)
 
 ## Visual Enhancements
 
