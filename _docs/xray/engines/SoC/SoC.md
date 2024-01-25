@@ -32,3 +32,8 @@ To ensure smooth gameplay and optimal performance, the X-Ray Engine includes var
 - Level of Detail (LOD) system
 - Occlusion culling
 - Streaming technology for seamless loading
+
+
+## Guides
+
+[List of Guides](https://faberthecatgirl.github.io/docs/xray/engines/SoC/Guides/)

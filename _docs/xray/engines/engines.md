@@ -38,3 +38,7 @@ Creating assets for the X-Ray Engine involves modeling 3D objects, texturing, an
 ### Gameplay Programming
 
 Gameplay programming in the X-Ray Engine involves implementing game mechanics, integrating systems, and optimizing performance. This includes coding AI behavior, physics interactions, and player controls.
+
+## Guides
+
+[List of Known Builds](https://faberthecatgirl.github.io/docs/xray/known_builds/)

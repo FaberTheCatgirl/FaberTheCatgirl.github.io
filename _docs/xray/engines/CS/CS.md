@@ -34,3 +34,6 @@ To ensure smooth gameplay and optimal performance, the X-Ray Engine includes var
 - Occlusion culling
 - Streaming technology for seamless loading
 
+## Guides
+
+[List of Guides](https://faberthecatgirl.github.io/docs/xray/engines/CS/Guides/)
