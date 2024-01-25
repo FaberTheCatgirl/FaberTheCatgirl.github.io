@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contributing Guide
+permalink: /contribute
+---
+
 # Contributing Guide
 
 Thank you for your interest in contributing to our project! We welcome contributions from everyone. This guide will help you get started with the contribution process.
