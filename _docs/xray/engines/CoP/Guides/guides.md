@@ -5,7 +5,7 @@ permalink: /docs/xray/engines/CoP/Guides/
 
 # Guides Overview
 
-Welcome to the Guides section, where you'll find a collection of comprehensive tutorials and walkthroughs to enhance your understanding and mastery of the Stalker Clear Sky Engine (X-Ray engine). Whether you're a novice looking to get started or an experienced developer seeking advanced techniques, our guides cover a wide range of topics to cater to various skill levels.
+Welcome to the Guides section, where you'll find a collection of comprehensive tutorials and walkthroughs to enhance your understanding and mastery of the X-Ray engine. Whether you're a novice looking to get started or an experienced developer seeking advanced techniques, our guides cover a wide range of topics to cater to various skill levels.
 
 ## Getting Started
 
