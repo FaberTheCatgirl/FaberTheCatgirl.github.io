@@ -39,3 +39,7 @@ If you're finding it hard to follow all this but still want to contribute then y
 # Credits
 
 The main wiki is powered by the beautiful [Docsy for Jekyll](https://github.com/vsoch/docsy-jekyll) by [Vanessasaurus](https://github.com/vsoch).
+
+## Contributors
+
+FaberTheCatgirl
