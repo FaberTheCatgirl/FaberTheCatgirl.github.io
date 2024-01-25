@@ -43,3 +43,26 @@ The main wiki is powered by the beautiful [Docsy for Jekyll](https://github.com/
 ## Contributors
 
 FaberTheCatgirl
+
+# Supporting The Stalkers Development Library
+
+Thank you for considering supporting The Stalkers Development Library! Your generous contribution helps us maintain and improve the wiki, ensuring that developers have access to valuable resources.
+
+## Why Donate?
+
+- **Sustain Development:** Your donations help us cover hosting costs, domain fees, and other expenses associated with maintaining the wiki.
+- **Improve Content:** With your support, we can invest in creating more tutorials, documentation, and resources to aid developers using The Stalkers Development Library.
+- **Community Growth:** Donations allow us to organize events, engage with the community, and foster a collaborative environment for developers.
+
+## Ways to Donate
+
+### Monthly Support
+
+Consider becoming a monthly supporter and receive exclusive benefits:
+
+- **Patreon:** [Become a Patron](https://patreon.com/STALKERDevelopmentLibrary?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator&utm_content=join_link)
+
+## Your Contribution Matters
+
+Every contribution, big or small, makes a difference. We appreciate your support and dedication to The Stalkers Development Library. Thank you for being a part of our community!
+
