@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: S.T.A.L.K.E.R. Development Library
+title: "S.T.A.L.K.E.R. Development Library"
 email: stalker-development-library@outlook.com
 author: FaberTheCatgirl
 description: > # this means to ignore newlines until "baseurl:"
