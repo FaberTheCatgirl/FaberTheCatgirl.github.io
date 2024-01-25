@@ -1,6 +1,6 @@
 ---
 title: Engine Overview
-permalink: /docs/xray/engines
+permalink: /docs/xray/engines/
 ---
 
 # X-Ray Engine Overview

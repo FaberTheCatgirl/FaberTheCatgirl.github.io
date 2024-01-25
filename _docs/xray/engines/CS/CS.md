@@ -1,6 +1,6 @@
 ---
 title: Clear Sky
-permalink: /docs/xray/engines/CS
+permalink: /docs/xray/engines/CS/
 ---
 
 # Stalker Clear Sky Engine

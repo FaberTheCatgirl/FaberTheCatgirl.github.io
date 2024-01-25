@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributing Guide
-permalink: /docs/xray/contribute
+permalink: /docs/xray/contribute/
 ---
 
 # Contributing Guide
