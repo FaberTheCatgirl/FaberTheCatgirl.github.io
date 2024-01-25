@@ -1,5 +1,5 @@
 ---
-title: Guide List
+title: Guide List Shadow of Chernobyl
 permalink: /docs/xray/engines/SoC/Guides/
 ---
 

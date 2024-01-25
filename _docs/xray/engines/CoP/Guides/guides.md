@@ -1,5 +1,5 @@
 ---
-title: Guide List
+title: Guide List Call of Pripyat
 permalink: /docs/xray/engines/CoP/Guides/
 ---
 
