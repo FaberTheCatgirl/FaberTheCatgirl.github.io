@@ -19,26 +19,6 @@ The X-Ray Engine is a game engine developed by GSC Game World for their series o
 
 - **Multiplayer Capabilities**: The X-Ray Engine supports multiplayer gameplay, allowing for both cooperative and competitive experiences. It provides networking functionality for seamless online play. This means that players can connect with each other over the internet and interact in real-time, whether it's cooperating to complete objectives or competing against each other.
 
-## Game Development with X-Ray Engine
-
-Developing games with the X-Ray Engine involves a combination of scripting, level design, asset creation, and gameplay programming. The engine provides a set of tools and editors that facilitate these tasks, making it easier for developers to bring their game ideas to life.
-
-### Scripting
-
-The X-Ray Engine uses a custom scripting language called Squirrel. This language allows developers to create game logic, define AI behavior, and implement various gameplay systems. It provides a flexible and powerful framework for game scripting.
-
-### Level Design
-
-Level design involves creating game environments, placing objects, defining gameplay areas, and setting up scripted events. The X-Ray Engine provides a level editor that allows designers to visually create and modify game levels.
-
-### Asset Creation
-
-Creating assets for the X-Ray Engine involves modeling 3D objects, texturing, and animating characters and objects. The engine supports various file formats for importing assets, including 3D models, textures, and animations.
-
-### Gameplay Programming
-
-Gameplay programming in the X-Ray Engine involves implementing game mechanics, integrating systems, and optimizing performance. This includes coding AI behavior, physics interactions, and player controls.
-
 ## Guides
 
 [List of Known Builds](https://faberthecatgirl.github.io/docs/xray/known_builds/)
