@@ -1,6 +1,6 @@
 ---
 title: Guide List
-permalink: /docs/xray/engines/CoP/Guides/
+permalink: /docs/xray/engines/CS/Guides/
 ---
 
 # Guides Overview
