@@ -17,7 +17,7 @@
     - title: "SDK Guides"
       url: "docs/xray/sdk"
       children:
-      - title: "S.T.A.L.K.E.R. Shadow of Chernobyl SDK"
+        - title: "S.T.A.L.K.E.R. Shadow of Chernobyl SDK"
           url: "docs/xray/sdk/SoC"
         - title: "S.T.A.L.K.E.R. Clear Sky SDK"
           url: "docs/xray/sdk/CS"
