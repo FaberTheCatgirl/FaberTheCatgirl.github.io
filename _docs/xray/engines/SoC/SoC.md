@@ -1,6 +1,6 @@
 ---
 title: Shadow of Chernobyl
-permalink: /engines/SoC
+permalink: /docs/xray/engines/SoC
 ---
 
 # Stalker: Shadow of Chernobyl Engine

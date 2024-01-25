@@ -1,6 +1,6 @@
 ---
 title: Call of Pripyat
-permalink: /engines/CoP
+permalink: /docs/xray/engines/CoP
 ---
 
 # Stalker Call of Pripyat Engine
