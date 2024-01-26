@@ -6,6 +6,8 @@
     - title: "Engine Documentation"
       url: "docs/xray/engines"
       children:
+        - title: "What is an X-Ray Build?"
+          url: "docs/xray/engines/known_builds"
         - title: "S.T.A.L.K.E.R. Shadow of Chernobyl"
           url: "docs/xray/engines/SoC"
           children:
@@ -21,6 +23,14 @@
           children:
             - title: "Guide Overview"
               url: "docs/xray/engines/CoP/guides"
+                children:
+                  - title: "Level Design Guides"
+                    url: "docs/xray/engines/CoP/guides/Level_Design"
+                    children:
+                      - title: "Smart Terrain Creation"
+                      url: "docs/xray/engines/CoP/Guides/Level_Design/smart_terrain_creation"
+                      - title: "What is Level Design?"
+                      url: "docs/xray/engines/CoP/Guides/Level_Design/what-is-level-design"
 - title: "General"
   url: "docs/extras"
   links:
