@@ -23,13 +23,13 @@
           children:
             - title: "Guide Overview"
               url: "docs/xray/engines/CoP/guides"
-                children:
-                  - title: "Level Design Guides"
-                    url: "docs/xray/engines/CoP/guides/Level_Design"
-                    children:
-                      - title: "Smart Terrain Creation"
+              children:
+                - title: "Level Design Guides"
+                  url: "docs/xray/engines/CoP/guides/Level_Design"
+                  children:
+                    - title: "Smart Terrain Creation"
                       url: "docs/xray/engines/CoP/Guides/Level_Design/smart_terrain_creation"
-                      - title: "What is Level Design?"
+                    - title: "What is Level Design?"
                       url: "docs/xray/engines/CoP/Guides/Level_Design/what-is-level-design"
 - title: "General"
   url: "docs/extras"
