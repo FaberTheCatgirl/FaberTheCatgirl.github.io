@@ -13,7 +13,7 @@ TBA
 
 ## Advanced Development
 
-TBA
+- [Level Design](/docs/xray/engines/CoP/Guides/Level_Design/)
 
 ## Visual Enhancements
 
